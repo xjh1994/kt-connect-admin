@@ -2,6 +2,13 @@
 
 Web管理界面，用于管理 kt-connect 集群连接。
 
+## 界面
+<img width="3024" height="1512" alt="ab87d689151b7ec532eb1ffa8630e792" src="https://github.com/user-attachments/assets/f34e2ec3-5241-4521-9ac6-c877f8dcde76" />
+<img width="3024" height="1512" alt="ab783c4f4486e083f58e83225d7b4555" src="https://github.com/user-attachments/assets/554dbdf0-5a63-47f7-9cf7-0bdc5ceedb63" />
+<img width="3024" height="1512" alt="9b0d5cc09f204bda4a70352b0902553b" src="https://github.com/user-attachments/assets/5cb49075-72c1-413e-9be0-396f231d4a9b" />
+<img width="3024" height="1512" alt="e2c27f5d42b6358a5d4952d28a81f00c" src="https://github.com/user-attachments/assets/cbb580aa-3162-4327-a237-024ac6912270" />
+
+
 ## 功能
 
 - **Connect**: 连接 Kubernetes 集群
